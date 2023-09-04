@@ -114,5 +114,6 @@ def answer(message):
     else:
         bot.send_message(message.chat.id, "Извините, я Вас не понял")
 
-
+#;d;slc;sdlm,ckpsdcmowdmcowejc
+#ekvjnekvnelckerc
 bot.infinity_polling()
