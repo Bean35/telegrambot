@@ -2,6 +2,9 @@ import telebot
 from telebot import types
 import psycopg2
 
+#fhadjfhladahlfd
+#kjhdsjkhfskdfsd
+
 conn = psycopg2.connect(database="bot",
                         user="postgres",
                         password="123456",
